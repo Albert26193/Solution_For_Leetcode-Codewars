@@ -1,1 +1,3 @@
-# this is a test
+int opposite(int number) {
+    return -number;
+}
